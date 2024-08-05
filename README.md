@@ -5,11 +5,11 @@
 
 🔭 I’m currently looking for full-time work opportunities
 
-🌱 I’m currently learning Kotlin 
+🌱 I’m currently learning Mern Stack
 
 👯 I’m looking to collaborate on any development project
 
-💬 Ask me about Kotlin and Communities
+💬 Ask me about Mern Stack and Communities
 
 ⚡ Fun fact I can speak in three languages(English, Hindi and French) 
 <br>
