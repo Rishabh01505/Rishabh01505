@@ -3,13 +3,13 @@
 
 
 
-🔭 I’m currently looking for full-time work opportunities
+🔭 I’m currently looking for full-time work opportunities.
 
-🌱 I have proficiency in MERN Stack
+🌱 I have proficiency in MERN Stack.
 
 👯 I’m looking to collaborate on any development projects.
 
-💬 Ask me about Mern Stack and Communities
+💬 Ask me about Mern Stack and Communities.
 
 <br>
 
