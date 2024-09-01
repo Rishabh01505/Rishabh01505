@@ -1,4 +1,4 @@
-<img align="right" alt="Coding" width="350" height="350" src="https://document-export.canva.com/ZoQsQ/DAFxiXZoQsQ/4/thumbnail/0001.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUHWDTJW6UD%2F20231017%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20231017T022515Z&X-Amz-Expires=61165&X-Amz-Signature=63a51ae3b2697f0c8dce5012b9e428c3adc8fe9ef5a1e6c9213acb0d117b1069&X-Amz-SignedHeaders=host&response-expires=Tue%2C%2017%20Oct%202023%2019%3A24%3A40%20GMT">
+
 <h2 align="center">💫 About Me</h2>
 
 
