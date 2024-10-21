@@ -16,7 +16,7 @@
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/rishabh_bhatnagar001) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishabh-bhatnagar-2b3824207/)
-[![An image of @rishabh01505's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh01505)](https://holopin.io/@rishabh01505)
+
 
 <!-- Statsistics -->
 <p align="center">
@@ -57,4 +57,6 @@
 
 </p>
 <br>
+
+[![An image of @rishabh01505's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/rishabh01505)](https://holopin.io/@rishabh01505)
 
