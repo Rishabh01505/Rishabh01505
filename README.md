@@ -24,7 +24,7 @@
 
   |My github statistics|My languages|Streaks|
   |-|-|-|
-  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=focusedgoof&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/focusedgoof)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/focusedgoof)|![focusedgoof](https://github-readme-streak-stats.herokuapp.com/?user=focusedgoof&theme=dark)
+  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=focusedgoof&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Rishabh01505)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Rishabh01505)|![focusedgoof](https://github-readme-streak-stats.herokuapp.com/?user=focusedgoof&theme=dark)
 
 </p>
 <br>
@@ -53,7 +53,7 @@
 
   |My github statistics|My languages|Streaks|
   |-|-|-|
-  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=focusedgoof&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/focusedgoof)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/focusedgoof)|![focusedgoof](https://github-readme-streak-stats.herokuapp.com/?user=focusedgoof&theme=dark)
+  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=focusedgoof&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Rishabh01505)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Rishabh01505)|![focusedgoof](https://github-readme-streak-stats.herokuapp.com/?user=focusedgoof&theme=dark)
 
 </p>
 <br>
