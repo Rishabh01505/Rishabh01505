@@ -42,7 +42,7 @@
 <!-- Trophies -->
 <h2 align="center">🏆 My Github Profile Trophies</h2>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=focusedgoof&theme=radical&margin-w=40&margin-h=40)](https://github.com/focusedgoof)
+[![trophy](https://github-profile-trophy.vercel.app/?username=focusedgoof&theme=radical&margin-w=40&margin-h=40)](https://github.com/Rishabh01505)
 
 <br>
 
