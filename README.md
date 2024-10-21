@@ -24,7 +24,7 @@
 
   |My github statistics|My languages|Streaks|
   |-|-|-|
-  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=focusedgoof&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Rishabh01505)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Rishabh01505)|![focusedgoof](https://github-readme-streak-stats.herokuapp.com/?user=focusedgoof&theme=dark)
+  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=Rishabh01505&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Rishabh01505)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=Rishabh01505&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Rishabh01505)|![Rishabh01505](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh01505&theme=dark)
 
 </p>
 <br>
@@ -42,7 +42,7 @@
 <!-- Trophies -->
 <h2 align="center">🏆 My Github Profile Trophies</h2>
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=focusedgoof&theme=radical&margin-w=40&margin-h=40)](https://github.com/Rishabh01505)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rishabh01505&theme=radical&margin-w=40&margin-h=40)](https://github.com/Rishabh01505)
 
 <br>
 
@@ -53,7 +53,7 @@
 
   |My github statistics|My languages|Streaks|
   |-|-|-|
-  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=focusedgoof&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Rishabh01505)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Rishabh01505)|![focusedgoof](https://github-readme-streak-stats.herokuapp.com/?user=focusedgoof&theme=dark)
+  |[![ Github Stats](https://github-readme-stats.vercel.app/api?username=Rishabh01505&show_icons=true&locale=en&theme=dark&hide_title=true)](https://github.com/Rishabh01505)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=focusedgoof&show_icons=true&locale=en&theme=dark&layout=compact&hide_title=true)](https://github.com/Rishabh01505)|![Rishabh01505](https://github-readme-streak-stats.herokuapp.com/?user=Rishabh01505&theme=dark)
 
 </p>
 <br>
