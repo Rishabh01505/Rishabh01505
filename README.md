@@ -29,7 +29,7 @@
 </p>
 <br>
 
-<h4>DSA </h4>
+<h4>DSA/Leetcode Profile</h4>
 
 <section> 
   <a href="https://leetcode.com/Rishabh_Bhatnagar01/" target="_blank">
