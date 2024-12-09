@@ -7,7 +7,7 @@
 
 🌱 I have proficiency in MERN Stack, MySQL and Core Java + DSA.
 
-👯 I’m ready to collaborate on any development projects.
+👯 I’m ready to collaborate on any development projects and contribute in open-source software development.
 
 💬 Feel free to connect with me.
 
