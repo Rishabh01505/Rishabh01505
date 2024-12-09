@@ -3,9 +3,9 @@
 
 
 
-🔭 I’m currently looking for full-time job opportunities.
+🔭 I’m currently looking for full-time job opportunities in the field of software engineering.
 
-🌱 I have proficiency in MERN Stack and Core Java + DSA.
+🌱 I have proficiency in MERN Stack, MySQL and Core Java + DSA.
 
 👯 I’m ready to collaborate on any development projects.
 
